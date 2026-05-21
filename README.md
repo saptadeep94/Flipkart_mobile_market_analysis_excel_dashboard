@@ -11,7 +11,6 @@ This project is an interactive Excel dashboard designed to analyze Flipkart mobi
 * Compare Budget, Mid-range, and Premium segments
 * Perform profitability and margin analysis
 * Measure Value-for-Money (VFM) performance
-* Study price vs rating correlation
 
 ## Tools & Techniques Used
 
@@ -20,7 +19,6 @@ This project is an interactive Excel dashboard designed to analyze Flipkart mobi
 * Pivot Charts
 * KPI Cards
 * Interactive Slicers
-* Scatter Plot Analysis
 * Data Segmentation
 * Business Reporting
 
@@ -36,7 +34,6 @@ This project is an interactive Excel dashboard designed to analyze Flipkart mobi
 * Interactive filters using slicers
 * Brand and model-level analysis
 * Segment analysis
-* Correlation analysis
 * KPI-driven dashboard design
 * Business recommendations and reporting
 
